@@ -44,7 +44,7 @@ EditMaster/
 │ ├── style.css # CSS file
 │ └── script.js # JS for interactivity
 
-## 🔧 Installation & Run Locally
+##  Installation & Run Locally
 
 1. Clone the repository:
    git clone https://github.com/Dhruv/EditMaster.git
