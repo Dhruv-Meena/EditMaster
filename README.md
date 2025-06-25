@@ -47,10 +47,11 @@ EditMaster/
 ## 🔧 Installation & Run Locally
 
 1. Clone the repository:
-   git clone https://github.com/your-username/EditMaster.git
+   git clone https://github.com/Dhruv/EditMaster.git
+
    cd EditMaster
 
-2. Set up the virtual environment (optional but recommended):
+3. Set up the virtual environment (optional but recommended):
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
 
