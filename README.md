@@ -4,7 +4,7 @@ EditMaster is a web-based image editing application that enables real-time enhan
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Upload and preview images in real-time  
 - Apply various filters:
@@ -24,7 +24,7 @@ EditMaster is a web-based image editing application that enables real-time enhan
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Python, Flask
@@ -32,7 +32,7 @@ EditMaster is a web-based image editing application that enables real-time enhan
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 EditMaster/
 ├── app.py # Flask backend
